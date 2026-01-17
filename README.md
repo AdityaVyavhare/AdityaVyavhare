@@ -64,12 +64,12 @@ I'm a **Full Stack Developer (Web + Mobile)** with a proven track record of solv
 <br/>
 
 ### 📈 Contribution Activity
-[![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AdityaVyavhare&theme=tokyo-night&hide_border=true&area=true)](https://github.com/AdityaVyavhare)
+[![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AdityaVyavhare&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true)](https://github.com/AdityaVyavhare)
 
 </td>
     <td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AdityaVyavhare&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaVyavhare&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 <br/>
 
@@ -80,6 +80,7 @@ I'm a **Full Stack Developer (Web + Mobile)** with a proven track record of solv
 </td>
   </tr>
 </table>
+
 
 ---
 
