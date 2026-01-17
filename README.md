@@ -66,7 +66,7 @@ I'm a **Full Stack Developer (Web + Mobile)** with a proven track record of solv
 <div align="right">
   
 ### 📈 Contribution Activity
-
+[![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AdityaVyavhare&theme=tokyo-night&hide_border=true&area=true&custom_title=contributions%20in%20the%20last%20year)](https://github.com/AdityaVyavhare)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdityaVyavhare&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaVyavhare&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
