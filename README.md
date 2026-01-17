@@ -102,85 +102,17 @@ I'm a full-stack developer (Mobile + Web) who has developed numerous projects.
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔗 [RECLAIM](https://github.com/AdityaVyavhare/RECLAIM)
-**React Native Expo • Redux • Supabase • Firebase • ML**
-- Cross-platform mobile app for fast recovery of lost items using QR/NFC tags
-- ML-based location prediction system for probable loss areas
-- Cost-efficient alternative to premium trackers (₹20 tags vs ₹800+)
-- [📱 Download](https://drive.google.com/your-link) | [🎬 Demo](https://your-demo-link)
-
-### 💰 [CREDILINK](https://github.com/AdityaVyavhare/CREDILINK)
-**ReactJS • Solidity • Ethereum • Web3.js • Hardhat • IPFS**
-- DeFi protocol tokenizing real-world SME assets as ERC-721 NFTs
-- Smart contracts for asset verification & automated loan lifecycle
-- Role-based access control with OpenZeppelin security standards
-- [🎬 Demo](https://your-demo-link)
-
-### 📱 [NEXORA](https://nexora-live.com)
-**ReactJS • NodeJS • MongoDB • Socket.io • Docker**
-- Full-stack social media platform with real-time updates
-- 30+ REST APIs for authentication, posts, and analytics
-- Real-time messaging with Socket.io
-- [🌐 Live Demo](https://nexora-live.com)
-
----
-
-## 🏆 Achievements & Certifications
-
-### 🎖️ Achievements
-- 📜 **Patent Filed** with CIPC, South Africa - Lost Property Recovery System with ML
-- 🥇 **1st Prize** - Software Domain at PROJECTIUM LEVIOSA, JSPM Narhe
-- 🏅 **SIH 2025** - Cleared internal rounds (Clean & Green Technology domain)
-- 🎯 **Top 40 Finalist** - Tietoevry Hackathon by MindSpark'24, COEP
-- 🎯 **Top 10 Finalist** - Impetus International Project Exhibition
-- 🏁 **Finalist** - CONVENE 2K25, Smt. Kashibai Navale College of Engineering
-
-### 📜 Certifications
-- MongoDB Developer's Toolkit - GeeksforGeeks
-- Machine Learning Algorithm - Simplilearn SkillUP
-- Docker Foundations Professional Certificate
-- JavaScript Algorithms & Data Structures - FreeCodeCamp
-
----
-
-## 💼 Work Experience
-
-**🔬 Research and Development Intern** @ Evatoz Solutions Pvt. Ltd *(July 2025 - Oct 2025)*
-- Developed EcoConnect: EV P2P Charging Network Management Platform
-- Real-time charging sessions with live updates & billing
-- Technical documentation and feasibility studies
-
-**🤖 AI & Tech Decentralized Intern** @ BlockseBlock *(Aug 2025 - Oct 2025)*
-- Optimized AI/ML models and LLMs for real applications
-- Built scalable React applications with Web3.js integration
-
----
-
-## 🎓 Education
-
-**Vishwakarma Institute of Information Technology, Pune**  
-*Bachelor's in Computer Science and Engineering (IOT CS BT)* | CGPA: 8.66  
-Sept 2024 - June 2027
-
-**Government Polytechnic, Chhatrapati Sambhaji Nagar**  
-*Diploma in Information Technology* | Percentage: 90.71%  
-Aug 2021 - July 2024
-
----
-
 ## 🌐 Connect with me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-vyavhare)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-vyavhare-283769280/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaVyavhare)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://adityavyavhare.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vyavhareaditya11@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/your-instagram)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/your-reddit)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/itzz.royal_aditya/)
+[![X](![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white))](https://x.com/aditya_112005)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/SuperbEconomist5303/)
 
 </div>
 
