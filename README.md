@@ -87,7 +87,9 @@ I'm a **Full Stack Developer (Web + Mobile)** with a proven track record of solv
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://adityavyavhare.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vyavhareaditya11@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/itzz.royal_aditya/)
-[![X](![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white))](https://x.com/aditya_112005)
+<a href="https://x.com/aditya_112005" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/SuperbEconomist5303/)
 
 </div>
