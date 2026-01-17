@@ -6,7 +6,7 @@
 
 Hello stranger... Welcome to my GitHub profile 👀
 
-I'm a full-stack developer (Mobile + Web) who has developed numerous projects.
+I'm a Full Stack Developer (Web + Mobile) with a proven track record of solving real-world problems through innovative technology solutions. Expertise spans across modern web and mobile development, blockchain/Web3 technologies, and AI/ML integration.
 
 ---
 
