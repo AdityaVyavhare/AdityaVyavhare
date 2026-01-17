@@ -66,10 +66,10 @@ I'm a **Full Stack Developer (Web + Mobile)** with a proven track record of solv
 ## 👨‍💻 Coding Profiles
 
 <p align="left">
-  <a href="https://leetcode.com/AdityaVyavhare" target="https://leetcode.com/u/vyavhareaditya11/">
+  <a href="https://leetcode.com/u/vyavhareaditya11/" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="leetcode" width="40" height="40"/>
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/AdityaVyavhare" target="https://www.geeksforgeeks.org/profile/vyavhareanum7?from=edit&tab=activity">
+  <a href="https://www.geeksforgeeks.org/profile/vyavhareanum7?from=edit&tab=activity" target="_blank">
     <img src="https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png" alt="geeksforgeeks" width="40" height="40"/>
  
 </p>
@@ -80,20 +80,17 @@ I'm a **Full Stack Developer (Web + Mobile)** with a proven track record of solv
 
 ## 🌐 Connect with me:
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/aditya-vyavhare-283769280/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/aditya_112005" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-  <a href="https://www.instagram.com/itzz.royal_aditya/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.reddit.com/user/SuperbEconomist5303/" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
-  </a>
-</p>
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-vyavhare-283769280/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaVyavhare)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://adityavyavhare.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vyavhareaditya11@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/itzz.royal_aditya/)
+[![X](![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white))](https://x.com/aditya_112005)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/SuperbEconomist5303/)
+
+</div>
 
 
 
