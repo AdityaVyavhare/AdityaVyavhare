@@ -66,24 +66,12 @@ I'm a **Full Stack Developer (Web + Mobile)** with a proven track record of solv
 ## 👨‍💻 Coding Profiles
 
 <p align="left">
-  <a href="https://leetcode.com/AdityaVyavhare" target="_blank">
+  <a href="https://leetcode.com/AdityaVyavhare" target="https://leetcode.com/u/vyavhareaditya11/">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="leetcode" width="40" height="40"/>
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/AdityaVyavhare" target="_blank">
+  <a href="https://auth.geeksforgeeks.org/user/AdityaVyavhare" target="https://www.geeksforgeeks.org/profile/vyavhareanum7?from=edit&tab=activity">
     <img src="https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png" alt="geeksforgeeks" width="40" height="40"/>
-  </a>
-  <a href="https://www.hackerrank.com/AdityaVyavhare" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="hackerrank" width="40" height="40"/>
-  </a>
-  <a href="https://codeforces.com/profile/AdityaVyavhare" target="_blank">
-    <img src="https://art.npanuhin.me/SVG/Codeforces/codeforces.svg" alt="codeforces" width="40" height="40"/>
-  </a>
-  <a href="https://www.codechef.com/users/AdityaVyavhare" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/11960354?s=200&v=4" alt="codechef" width="40" height="40"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/AdityaVyavhare" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="gfg" width="40" height="40"/>
-  </a>
+ 
 </p>
 
 **🔥 500+ Problems Solved** across multiple platforms!
@@ -107,12 +95,5 @@ I'm a **Full Stack Developer (Web + Mobile)** with a proven track record of solv
   </a>
 </p>
 
----
 
-<div align="center">
 
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cody House
-
-⭐️ From [AdityaVyavhare](https://github.com/AdityaVyavhare) | Made with ❤️ and ☕
-
-</div>
