@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=AdityaVyavhare&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </div>
 
-Hello stranger... Welcome to my GitHub profile 👀
+Hello stranger... Welcome to my GitHub profile
 
 I'm a **Full Stack Developer (Web + Mobile)** with a proven track record of solving real-world problems through innovative technology solutions. Expertise spans across modern web and mobile development, blockchain/Web3 technologies, and AI/ML integration.
 
@@ -58,6 +58,9 @@ I'm a **Full Stack Developer (Web + Mobile)** with a proven track record of solv
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaVyavhare&theme=tokyonight&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaVyavhare&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 📈 Contribution Graph
+[![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AdityaVyavhare&theme=tokyo-night&hide_border=true&area=true)](https://github.com/AdityaVyavhare)
 
 </div>
 
