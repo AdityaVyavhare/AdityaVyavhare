@@ -50,32 +50,39 @@ I'm a **Full Stack Developer (Web + Mobile)** with a proven track record of solv
 ---
 ## 📊 GitHub Stats
 
-<div align="left">
-  
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      
 ### [AdityaVyavhare](https://github.com/AdityaVyavhare) (Aditya Vyavhare)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=AdityaVyavhare&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="contribution graph" width="500"/>
+- 🔨 **5 Contributions in 2026**
+- 📂 **16 Public Repos**
+- 📅 **Joined GitHub 4 years ago**
+- 📍 **Pune, Maharashtra, IN**
 
-- 🔨 **Contributions in 2026**: Check my profile
-- 📂 **Public Repos**: ![](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/AdityaVyavhare&label=&query=$.public_repos&color=gray&style=flat-square)
-- 📅 **Joined GitHub**: ![](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/AdityaVyavhare&label=&query=$.created_at&color=gray&style=flat-square&logo=github)
-- 📍 **Location**: Pune, Maharashtra, IN
+<br/>
 
-
-
-<div align="right">
-  
 ### 📈 Contribution Activity
-[![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AdityaVyavhare&theme=tokyo-night&hide_border=true&area=true&custom_title=contributions%20in%20the%20last%20year)](https://github.com/AdityaVyavhare)
+[![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AdityaVyavhare&theme=tokyo-night&hide_border=true&area=true)](https://github.com/AdityaVyavhare)
+
+</td>
+    <td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AdityaVyavhare&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
+
+<br/>
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdityaVyavhare&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaVyavhare&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-</div>
-</div>
-
+</td>
+  </tr>
+</table>
 
 ---
+
 
 ## 👨‍💻 Coding Profiles
 
