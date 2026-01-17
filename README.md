@@ -59,7 +59,7 @@ I'm a **Full Stack Developer (Web + Mobile)** with a proven track record of solv
 - 🔨 **Contributions in 2026**: Check my profile
 - 📂 **Public Repos**: ![](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/AdityaVyavhare&label=&query=$.public_repos&color=gray&style=flat-square)
 - 📅 **Joined GitHub**: ![](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/AdityaVyavhare&label=&query=$.created_at&color=gray&style=flat-square&logo=github)
-- 📍 **Location**: Nagpur, Maharashtra, IN
+- 📍 **Location**: Pune, Maharashtra, IN
 
 <br clear="right"/>
 
@@ -83,8 +83,12 @@ I'm a **Full Stack Developer (Web + Mobile)** with a proven track record of solv
 ## 👨‍💻 Coding Profiles
 
 <p align="left">
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vyavhareaditya11/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/vyavhareanum7?from=edit&tab=activity)
+  <a href="https://leetcode.com/u/vyavhareaditya11/" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="leetcode" width="40" height="40"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/vyavhareanum7?from=edit&tab=activity" target="_blank">
+    <img src="https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png" alt="geeksforgeeks" width="40" height="40"/>
+  </a>
 </p>
 
 **🔥 500+ Problems Solved** across multiple platforms!
