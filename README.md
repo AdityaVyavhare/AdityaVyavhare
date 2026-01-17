@@ -48,33 +48,43 @@ I'm a **Full Stack Developer (Web + Mobile)** with a proven track record of solv
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats
 
+<div align="left">
+  
+### [AdityaVyavhare](https://github.com/AdityaVyavhare) (Aditya Vyavhare)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=AdityaVyavhare&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="contribution graph" width="500"/>
+
+- 🔨 **Contributions in 2026**: Check my profile
+- 📂 **Public Repos**: ![](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/AdityaVyavhare&label=&query=$.public_repos&color=gray&style=flat-square)
+- 📅 **Joined GitHub**: ![](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/AdityaVyavhare&label=&query=$.created_at&color=gray&style=flat-square&logo=github)
+- 📍 **Location**: Nagpur, Maharashtra, IN
+
+<br clear="right"/>
+
+### 📈 Contribution Activity
+[![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AdityaVyavhare&theme=tokyo-night&hide_border=true&area=true&custom_title=Contributions%20in%20the%20last%20year)](https://github.com/AdityaVyavhare)
+
+### 📊 More Stats
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=AdityaVyavhare&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaVyavhare&theme=tokyonight&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaVyavhare&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 📈 Contribution Graph
-[![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AdityaVyavhare&theme=tokyo-night&hide_border=true&area=true)](https://github.com/AdityaVyavhare)
+</div>
 
 </div>
+
 
 ---
 
 ## 👨‍💻 Coding Profiles
 
 <p align="left">
-  <a href="https://leetcode.com/u/vyavhareaditya11/" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="leetcode" width="40" height="40"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/vyavhareanum7?from=edit&tab=activity" target="_blank">
-    <img src="https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png" alt="geeksforgeeks" width="40" height="40"/>
- 
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vyavhareaditya11/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/vyavhareanum7?from=edit&tab=activity)
 </p>
 
 **🔥 500+ Problems Solved** across multiple platforms!
