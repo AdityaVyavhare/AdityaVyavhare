@@ -96,7 +96,7 @@ I'm a **Full Stack Developer (Web + Mobile)** with a proven track record of solv
   </a>
 </p>
 
-**🔥 500+ Problems Solved** across multiple platforms!
+**🔥 800+ Problems Solved** across multiple platforms!
 
 ---
 
